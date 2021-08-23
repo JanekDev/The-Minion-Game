@@ -22,7 +22,7 @@ def minion_game(string):
             scoreboard["Stuart"]+=points
     
     #returning values
-    if len(scoreboard.values())==1:
+    if len(set(scoreboard.values()))==1:
         return "Draw"
     else:
         winner=max(scoreboard,key=scoreboard.get)
