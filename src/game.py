@@ -5,6 +5,8 @@ def main():
 
 #Game function loop
 def minion_game(string):
+    if not string.isalpha():
+        return "Invalid input."
     #setting up variables
     string=string.upper()
     scoreboard={
