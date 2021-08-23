@@ -1,5 +1,5 @@
 # The-Minion-Game
-### Just a fast and mathematically optimized solution of Minion Game problem proposed by HackerRank with easily scalable amount of players.
+### Just a fast and mathematically optimized solution of The Minion Game problem proposed by HackerRank with easily scalable amount of players.
 ## Description
 Game starts with choosing the word to play with. The two player are Stuart & Kevin and they have to create as much substrings from given letters as possible.<br>
 - Stuart's strings have to start with consonants
