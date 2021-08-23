@@ -12,4 +12,4 @@ By solving this problem on a piece of paper for the case where some substring ar
 
 __Example playthrough with word *Banana*:__
 
-[game](/JanekDev/The-Minion-Game/blob/main/img/game.png)
+[game](/The-Minion-Game/blob/main/img/game.png)
