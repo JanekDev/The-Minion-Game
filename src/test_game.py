@@ -1,4 +1,4 @@
-from game import minion_game
+from the-minion-game.lib import minion_game
 
 #unit tests
 def test_game():
